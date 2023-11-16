@@ -17,7 +17,7 @@
 
  ![Package manager](./images/steps.png)
 
-или напрямую добавив пакет в **manifest.json** в формате: 
+или напрямую, добавив пакет в **manifest.json** в формате: 
 ```
 {
   "dependencies": {
